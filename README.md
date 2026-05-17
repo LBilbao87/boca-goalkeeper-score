@@ -16,6 +16,16 @@ The goal is not to produce a definitive recruitment recommendation, but to build
 
 **Is there an external goalkeeper in Argentina or Brazil who appears clearly stronger than Leandro Brey according to selected performance indicators?**
 
+## Main conclusion
+
+Based on the Boca GK Score v1, no external goalkeeper from Argentina or Brazil appears to be clearly better than Leandro Brey.
+
+Brey ranks first in the model, with a score of **0.839**, followed by Fabricio Iacovich (**0.805**), Álvaro David Montero (**0.760**) and Orlando Gill (**0.753**).
+
+This does not mean that Boca should not evaluate the goalkeeper market. However, based on this first quantitative screening, the data does not show an obvious external upgrade over Brey.
+
+The strongest external candidates may still be worth monitoring, but they do not clearly outperform Brey within the selected metrics and model assumptions.
+
 ## Data source
 
 The analysis uses goalkeeper data exported from FBref for the 2026 season.
