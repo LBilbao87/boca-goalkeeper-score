@@ -1,3 +1,5 @@
+🌐 Available languages: [English](README.md) | [Español](README.es.md) | [Português](README.pt.md)
+
 # Boca Goalkeeper Score
 
 A data-driven screening project to evaluate potential goalkeeper candidates for Boca Juniors using 2026 goalkeeper performance data from Argentina and Brazil.
