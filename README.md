@@ -96,13 +96,17 @@ The notebook produces:
 
 ## Example visualizations
 
-The notebook includes two main visual outputs:
+### Goalkeeper profile map
 
-1. **Goalkeeper profile map**  
-   Compares goalkeepers by save percentage and goals against per 90.
+This chart compares goalkeepers by save percentage and goals against per 90 minutes.
 
-2. **Top 10 goalkeeper ranking**  
-   Shows the highest-ranked candidates according to Boca GK Score v1, highlighting Leandro Brey and separating players by league.
+![Goalkeeper profile map](outputs/figures/goalkeeper_profile_map.png)
+
+### Top 10 goalkeeper candidates
+
+This chart shows the highest-ranked candidates according to the Boca GK Score v1.
+
+![Top 10 goalkeeper candidates](outputs/figures/top_10_goalkeeper_candidates.png)
 
 ## Tools and libraries
 
